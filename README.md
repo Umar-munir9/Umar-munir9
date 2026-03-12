@@ -168,21 +168,6 @@ Enterprise-grade integration architecture:
 - Synchronised Jira with 3rd party BI tools and SSO systems
 - Webhook-driven automation for cross-system data flow
 - Secure access provisioning across multiple business units
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umar-munir9&show_icons=true&theme=dark&hide_border=true&title_color=1A7A8A&icon_color=1A7A8A&bg_color=0D1B24)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-munir9&layout=compact&theme=dark&hide_border=true&title_color=1A7A8A&bg_color=0D1B24)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Umar-munir9&theme=dark&hide_border=true&ring=1A7A8A&fire=1A7A8A&currStreakLabel=1A7A8A&background=0D1B24)
-
-</div>
-
 ---
 
 ## 💬 A Quote I Live By
@@ -195,7 +180,7 @@ Enterprise-grade integration architecture:
 <div align="center">
 
 ### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=Umar-munir9&color=1A7A8A&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Umar-Munir-Scrum&color=1A7A8A&style=for-the-badge)
 
 ### 🌍 Open to Remote Opportunities Worldwide
 **Scrum Master · Agile Coach · Atlassian Administrator · Technical Project Manager**
